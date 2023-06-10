@@ -150,3 +150,4 @@ root@MidPC:/home/student/Desktop# 106
 ![image](https://github.com/Akashbalakrishnan/-PCA-Implement-Matrix-Multiplication-using-CUDA-C.-Find-the-elapsed-time./assets/119291768/4bfb539a-6bf3-4b68-8471-4da7858d8559)
 
 Result:
+The implementation of Matrix Multiplication using GPU is done successfully.
